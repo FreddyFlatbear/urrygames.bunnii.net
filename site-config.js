@@ -3,7 +3,7 @@ import { initLanyard } from './status.js';
 // API Configuration Map
 const API_CONFIG = {
     nsHost: 'https://ns.bunnii.net',
-    profileId: 'amebunnii',
+    profileId: 'ownerprofile',
     productId: 'product_5cafa9c5-b53b-439a-8639-79ed8766f5d2',
     timeout: 5000,
     retryAttempts: 2
